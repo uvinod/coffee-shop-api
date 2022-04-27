@@ -1,1 +1,1 @@
-# coffee-shop-api
+# Coffee Shop API
