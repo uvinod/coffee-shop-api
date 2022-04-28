@@ -38,6 +38,13 @@ Running in production:
 yarn start
 ```
 
+Create item documents in MongoDB:
+
+```bash
+cd database/seeds 
+node items.js
+```
+
 ## Environment Variables
 
 The environment variables can be found and modified in the `.env` file. They come with these default values:
