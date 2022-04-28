@@ -51,7 +51,7 @@ MONGODB_URL=mongodb://127.0.0.1:27017/coffeeshop
 
 # Environment
 NODE_ENV=development
-
+```
 ### API Endpoints
 
 List of available routes:
