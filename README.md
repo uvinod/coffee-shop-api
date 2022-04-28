@@ -57,7 +57,7 @@ NODE_ENV=development
 List of available routes:
 
 **Items routes**:\
-`GET /v1/items/register` - retrieve all items\
+`GET /v1/items/register` - retrieve all items
 
 **Cart routes**:\
 `POST /v1/cart` - create/modify a cart\
@@ -68,4 +68,4 @@ List of available routes:
 `POST /v1/orders` - create an order\
 `GET /v1/orders` - retrieve all orders\
 `GET /v1/orders/:orderId` - retrieve an order\
-`PATCH /v1/orders/:orderId` - complete an order\
+`PATCH /v1/orders/:orderId` - complete an order
